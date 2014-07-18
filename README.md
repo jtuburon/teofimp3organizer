@@ -10,7 +10,9 @@ Info
 Usage
 --------------
 These are some examples about how you can use it:
+
   ./main.py --directory <path>
+
   ./main.py -d <path>
 
   
